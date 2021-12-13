@@ -30,6 +30,10 @@ body {
   overflow-y: auto;
 }
 
+.description h1 {
+  font-weight: bold;
+}
+
 .description p {
   font-size: 0.8rem;
   margin-top: 16px;
