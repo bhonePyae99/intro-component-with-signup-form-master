@@ -76,7 +76,8 @@ body {
   }
 
   .advertise {
+    text-align: center;
     height: 65px;
-    padding: 16px 100px;
+    padding: 16px 20px;
   }
 }
